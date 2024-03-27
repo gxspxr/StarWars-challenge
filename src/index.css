@@ -1,0 +1,5 @@
+@import url('https://fonts.cdnfonts.com/css/star-wars');
+@import url('https://fonts.googleapis.com/css2?family=Orbit&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
